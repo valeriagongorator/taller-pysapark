@@ -4,5 +4,4 @@ __pycache__/
 .DS_Store
 data/*.csv
 data/*.xlsx
-src/outputs/
 EOT
